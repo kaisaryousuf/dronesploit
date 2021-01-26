@@ -30,12 +30,12 @@ pip3 install dronesploit
 
 ## Interface
 
-![DroneSploit](https://dhondta.github.io/dronesploit/docs/img/dronesploit.png)
+![DroneSploit](https://github.com/dhondta/dronesploit/raw/master/docs/img/dronesploit.png)
 
-![DroneSploit command examples](https://dhondta.github.io/dronesploit/docs/img/dronesploit-commands.png)
+![DroneSploit command examples](https://github.com/dhondta/dronesploit/raw/master/docs/img/dronesploit-commands.png)
 
 ## Modules
 
 This example shows an example of module for DroneSploit aimed to change the password or the SSID of a particular model of drone.
 
-![DroneSploit module example](https://dhondta.github.io/dronesploit/docs/img/dronesploit-module.png)
+![DroneSploit module example](https://github.com/dhondta/dronesploit/raw/master/docs/img/dronesploit-module.png)
